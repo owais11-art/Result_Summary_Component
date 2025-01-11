@@ -1,16 +1,14 @@
-# results_summary_component
+# Result Summary Component
 
-A new Flutter project.
+![design-image](./assets/design/mobile-design.jpg)
 
-## Getting Started
+Social Links Profile using Flutter.
 
-This project is a starting point for a Flutter application.
+It is a challenge from [FrontEnd Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)
 
-A few resources to get you started if this is your first Flutter project:
+# How to run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Create flutter project `flutter create <project-name>`.
+- Clone this repository `git clone https://github.com/owais11-art/Result_Summary_Component.git`.
+- Install dependencies `flutter pub get`.
+- Run the project on emulator or physical device.
