@@ -2,7 +2,7 @@
 
 ![design-image](./assets/design/mobile-design.jpg)
 
-Social Links Profile using Flutter.
+Result Summary Component using Flutter.
 
 It is a challenge from [FrontEnd Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV)
 
