@@ -13,7 +13,6 @@ class Score extends StatelessWidget {
           borderRadius: BorderRadius.circular(100), gradient: LinearGradient(
               begin: Alignment.topCenter,
               end: Alignment.bottomCenter,
-              // stops: [0.0, 0.0],
               colors: [AppColors.violetBlue, AppColors.lightRoyalBlue])),
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
